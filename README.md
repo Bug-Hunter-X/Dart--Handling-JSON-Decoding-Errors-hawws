@@ -1,0 +1,3 @@
+# Dart JSON Decoding Error Handling
+
+This repository demonstrates a common error in Dart applications involving JSON decoding and provides a solution for robust error handling.  The `bug.dart` file contains code that may throw exceptions if the JSON response is malformed or does not contain the expected data. The `bugSolution.dart` file offers an improved version that includes comprehensive error checks and handling to prevent crashes.
